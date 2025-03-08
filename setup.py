@@ -6,8 +6,8 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="micrograd-sample",
     version="0.1.0",
-    author="Andrej Karpathy",
-    author_email="andrej.karpathy@gmail.com",
+    author="Inspired from Andrej Karpathy",
+    author_email="anantsakhare11@gmail.com",
     description="exact similar implemetation of  tiny scalar-valued autograd engine with a small PyTorch-like neural network library on top.",
     long_description=long_description,
     long_description_content_type="text/markdown",
